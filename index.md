@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello there, my name is Cheng Tang. This is my career website. Until early 2021, I was an applied scientist at AWS AI Labs, shortly working on its machine learning platform Sagemaker [Object2Vec](https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/) and then moved to a Large-Language-Model based search service [Amazon Kendra](https://aws.amazon.com/kendra). I obtained my PhD in Computer Science in 2018 from The George Washington University, working with Professor [Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/). During my PhD years, I mostly worked on advancing the theoretical understanding of a popular clustering heuristic, k-means method and its stochastic-gradient based variants. 
+Hello there, my name is Cheng Tang. This is my career website. Until early 2021, I was an applied scientist at AWS AI Labs, shortly working on its machine learning service [Sagemaker](https://aws.amazon.com/sagemaker/) and then moved to a Large-Language-Model based search service [Amazon Kendra](https://aws.amazon.com/kendra). I obtained my PhD in Computer Science in 2018 from The George Washington University, working with Professor [Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/). During my PhD years, I mostly worked on advancing the theoretical understanding of a popular clustering heuristic, k-means method and its stochastic-gradient based variants. 
 
 ## Research Interests
 
