@@ -21,13 +21,13 @@ main:
     notes: # Oral Presentation
     image: ./assets/img/rf-demo.png
 
-   - title: "Convergence rate of stochastic k-means"
-     authors: Cheng Tang, Claire Monteleoni
-     conference_short: AISTATS
-     conference: International Conference on Arti cial Intelligence and Statistics, 2017.
-     pdf: https://arxiv.org/pdf/1610.04900v2
-     code: # https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-     page: # https://class-il.mpi-inf.mpg.de/mnemonics/
-     bibtex: # https://class-il.mpi-inf.mpg.de/mnemonics/
-     notes: # 
-     image: ./assets/img/kmeans-demo.png
+  - title: "Convergence rate of stochastic k-means"
+    authors: Cheng Tang, Claire Monteleoni
+    conference_short: AISTATS
+    conference: International Conference on Arti cial Intelligence and Statistics, 2017.
+    pdf: https://arxiv.org/pdf/1610.04900v2
+    code: # https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: # https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: # https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: # 
+    image: ./assets/img/kmeans-demo.png
