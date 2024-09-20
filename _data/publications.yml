@@ -7,7 +7,7 @@ main:
     pdf: https://proceedings.neurips.cc/paper/2019/file/38faae069a1371784081ea9ad9b279d0-Paper.pdf
     code: # https://github.com/MrGiovanni/ContinualLearning
     bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/kPCA-paper.png
     notes: # Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
