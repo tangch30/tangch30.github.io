@@ -24,10 +24,21 @@ main:
   - title: "Convergence rate of stochastic k-means"
     authors: Cheng Tang, Claire Monteleoni
     conference_short: AISTATS
-    conference: International Conference on Arti cial Intelligence and Statistics, 2017.
+    conference: International Conference on Artificial Intelligence and Statistics, 2017.
     pdf: https://arxiv.org/pdf/1610.04900v2
     code: # https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: # https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: # https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: # 
     image: ./assets/img/kmeans-demo.png
+
+  - title: "On Lloyd's algorithm: new theoretical insights for clustering in practice"
+    authors: Cheng Tang, Claire Monteleoni
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics, 2017.
+    pdf: http://proceedings.mlr.press/v51/tang16b.pdf
+    code: # https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: # https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: # https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: # 
+    image: ./assets/img/lloyds-earlystop-demo.png
