@@ -35,7 +35,7 @@ main:
   - title: "On Lloyd's algorithm: new theoretical insights for clustering in practice"
     authors: Cheng Tang, Claire Monteleoni
     conference_short: AISTATS
-    conference: International Conference on Artificial Intelligence and Statistics, 2017.
+    conference: International Conference on Artificial Intelligence and Statistics, 2016.
     pdf: http://proceedings.mlr.press/v51/tang16b.pdf
     code: # https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: # https://class-il.mpi-inf.mpg.de/mnemonics/
