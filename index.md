@@ -8,7 +8,7 @@ Hello there, my name is Cheng Tang. This is my career website. Until early 2021,
 
 ## Research Interests
 
-I am broadly interested in machine learning, with a heavier emphasis on the theoretical understanding of deep learning and machine learning algorithms. Currently, I'm interested in learning more about topics such as NTK (and the related NNGP), LLM for scientific discovery, and the learning-theoretic aspects of modern ML. Please shoot me an email at ``tangch30@outlook.com'', if you are interested in research collaboration or just a casual discussion. 
+I am broadly interested in machine learning, with a heavier emphasis on the theoretical understanding of deep learning and machine learning algorithms. Currently, I'm interested in learning more about topics such as NTK (and the related NNGP), LLM for knowledge discovery, and the learning-theoretic aspects of modern ML. Please shoot me an email at ``tangch30@outlook.com'', if you are interested in research collaboration or just a casual discussion. 
 
 ## CV 
 
