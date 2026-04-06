@@ -1,7 +1,7 @@
 main:
 
   - title: "Multiple-source adaptation with the Hedge algorithm"
-    authors: Cheng Tang
+    authors: Cheng Tang, Damien Garreau, Claire Monteleoni
     conference_short: Preprint
     conference: # Conference on Neural Information Processing Systems, 2019.
     pdf: ./assets/files/msa_preprint.pdf

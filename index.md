@@ -12,7 +12,7 @@ I am broadly interested in machine learning, with a heavier emphasis on the theo
 
 ## CV 
 
-You may find my CV [here](../assets/cv_2024.pdf).
+You may find my CV [here](../assets/cv_2026.pdf).
 
 
 
