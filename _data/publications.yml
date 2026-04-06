@@ -1,5 +1,16 @@
 main:
 
+  - title: "Multiple-source adaptation with the Hedge algorithm"
+    authors: Cheng Tang
+    conference_short: Preprint
+    conference: # Conference on Neural Information Processing Systems, 2019.
+    pdf: ./assets/files/msa_preprint.pdf
+    code: # https://github.com/MrGiovanni/ContinualLearning
+    bibtex: # https://bib.yliu.me/MICCAI23.txt
+    image: # ./assets/img/kPCA-demo.png
+    notes: # Oral Presentation
+
+
   - title: "Exponentially convergent stochastic k-PCA without variance reduction"
     authors: Cheng Tang
     conference_short: NeurIPS
