@@ -17,7 +17,7 @@ I am currently especially interested in research at the intersection of ML theor
 * LLM's, including its training and evaluation, and ways to improve its reasoning and comprehension capabilities.
 * Revisiting topics such as deep matrix factorization and low-rank methods.
 * Time-series and its applications in finance
-* Legal AI
+
 
 Feel free to reach me at ``tangch30@outlook.com'', if you are interested in a research collaboration. 
 
