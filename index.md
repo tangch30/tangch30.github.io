@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-My name is Cheng Tang. This is my career website. Until early 2021, I was an applied scientist at AWS AI Labs.
+My name is Cheng Tang. This is my career website. I was an applied scientist at AWS AI Labs.
 I obtained my PhD in Computer Science in 2018 from The George Washington University. 
 During my PhD years, I spent time on classic research topics such as k-means clustering and PCA, as well as their modern variants empowered by SGD. 
 
